@@ -1,4 +1,4 @@
 # tip_calculator
 
-A new Flutter project.For calculating Tips
+A new Flutter project for calculating Tips
 
